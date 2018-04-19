@@ -1,0 +1,21 @@
+{
+  "name": "com-moduscreate-plugins-echo",
+  "version": "0.0.1",
+  "cordova": {
+    "id": "com-moduscreate-plugins-echo",
+    "platforms": [
+      "ios"
+    ]
+  },
+  "keywords": [
+    "ecosystem:cordova",
+    "cordova-ios"
+  ],
+  "author": "",
+  "license": "ISC",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "description": ""
+}
